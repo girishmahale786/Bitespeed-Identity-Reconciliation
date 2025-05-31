@@ -8,6 +8,8 @@ This repository implements the **Bitespeed** backend task for *Identity Reconcil
 
 * [Features](#features)
 
+* [API Endpoints](#api-endpoints)
+
 * [Prerequisites](#prerequisites)
 
 * [Getting Started](#getting-started)
@@ -28,6 +30,15 @@ This repository implements the **Bitespeed** backend task for *Identity Reconcil
 * Input validations.
 * Recursive grouping and primary/secondary precedence.
 * Transactional operations for consistency.
+
+---
+
+## API Endpoints
+
+| Endpoint      | URL                                                                                                                        |
+| ------------- | -------------------------------------------------------------------------------------------------------------------------  |
+| **Home**      | [https://bitespeed-identity-reconciliation-hiue.onrender.com](https://bitespeed-identity-reconciliation-hiue.onrender.com) |
+| **/identify** | [https://bitespeed-identity-reconciliation-hiue.onrender.com/identify](https://bitespeed-identity-reconciliation-hiue.onrender.com/identify) |
 
 ---
 
